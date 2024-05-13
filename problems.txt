@@ -1,0 +1,6 @@
+Error occurred while unmuting browser tab: Error code from Windows: 0 - The operation completed successfully.
+
+This message occurs whilst the browser is on my TV (non primary monitor) and a mute or unmute keybind is attempted while i am multitasking on another monitor.
+
+
+TNT transparent in shot replay/foul replay false positive mutes

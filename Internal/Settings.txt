@@ -1,0 +1,2 @@
+Spotify Play/Pause Keybind: CTRL+=
+Browser: Chrome
